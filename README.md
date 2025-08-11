@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="A_digital_graphic_header_introduces_Otomewo_Oluwat.png" alt="Otomewo Oluwatobi Banner" width="100%" />
+  <a href="https://linkedin.com/in/oluwatobiotomewo" target="_blank">
+    <img src="A_digital_graphic_header_introduces_Otomewo_Oluwat.png" alt="Otomewo Oluwatobi Banner" width="100%" />
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Otomewo Oluwatobi</h1>
@@ -75,7 +77,7 @@ I’ve improved platform performance by **30%** and maintained **99.9% uptime**,
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/oluwatobiotomewo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/oluwatobiotomewo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:otomewooluwatobi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
