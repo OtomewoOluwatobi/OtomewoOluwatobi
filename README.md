@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://linkedin.com/in/oluwatobiotomewo" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/13156208?v=4" alt="Otomewo Oluwatobi Banner" style="width: 60px; border-radius: 50%;"/>
-  </a>
-</p>
-
-<h1 align="center">Hi 👋, I'm Otomewo Oluwatobi</h1>
+<h1 align="center">Hi 👋, I'm Oluwatobi Otomewo</h1>
 <h3 align="center">🚀 Backend Developer | 📊 Data Analyst | 💡 Innovator</h3>
 
 ---
