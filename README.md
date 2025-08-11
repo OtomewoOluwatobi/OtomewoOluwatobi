@@ -47,28 +47,6 @@ I’ve improved platform performance by **30%** and maintained **99.9% uptime**,
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otomewo-oluwatobi&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otomewo-oluwatobi&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=otomewo-oluwatobi&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otomewo-oluwatobi&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/oluwatobiotomewo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
