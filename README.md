@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/oluwatobiotomewo" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/13156208?s=96&v=4" alt="Otomewo Oluwatobi Banner" width="100%" />
+    <img src="A_digital_graphic_header_introduces_Otomewo_Oluwat.png" alt="Otomewo Oluwatobi Banner" width="100%" />
   </a>
 </p>
 
