@@ -19,6 +19,7 @@ I’ve improved platform performance by **30%** and maintained **99.9% uptime**,
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSharp%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -47,28 +48,6 @@ I’ve improved platform performance by **30%** and maintained **99.9% uptime**,
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otomewo-oluwatobi&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otomewo-oluwatobi&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=otomewo-oluwatobi&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otomewo-oluwatobi&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/oluwatobiotomewo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -76,9 +55,5 @@ I’ve improved platform performance by **30%** and maintained **99.9% uptime**,
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otomewo-oluwatobi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 💡 *"Code with purpose, deliver with impact."*
