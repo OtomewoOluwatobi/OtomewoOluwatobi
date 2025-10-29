@@ -44,6 +44,7 @@ I’ve improved platform performance by **30%** and maintained **99.9% uptime**,
 ### 📌 Projects
 - **[Hostel.ng](https://hostel.ng/)** – Affordable housing platform for African travelers.  
 - **[ASCO Unified App](https://live.ascoapps.com.ng/)** – Unified security operations platform.
+- **[Sweeetboards](https://sweeetboards.com/)** – Sweeet Boards | Create digital boards filled with love..
 
 ---
 
